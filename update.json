@@ -1,6 +1,6 @@
 
 {
-  "version": "0.9.5",
-  "download_url": "https://drive.google.com/uc?export=download&id=1Ui2J9QnWxr9Px1kr5q9ADMRbrdmvMkjS",
+  "version": "0.9.6",
+  "download_url": "https://drive.google.com/uc?export=download&id=1ABkmsx-LwDDS8QQ1GOiIIzDuoIVWZUpj",
   "changelog": "Undetectable Mode toggel button   *Fixed* Aim no longer stutters at high GPU load (removed frame skipping)  Toggle lock works on first press "
 }
