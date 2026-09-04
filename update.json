@@ -1,6 +1,6 @@
 
 {
-  "version": "1.0.0",
+  "version": "1.5.0",
   "download_url": "https://download.setaimbot.com/OverSet.rar",
   "changelog": "Undetectable Mode toggel button   *Fixed* Aim no longer stutters at high GPU load (removed frame skipping)  Toggle lock works on first press  a"
 }
