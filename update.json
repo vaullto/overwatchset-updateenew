@@ -1,6 +1,9 @@
-
 {
-  "version": "2.5.0",
-  "download_url": "https://download.setaimbot.com/OverSet.rar",
-  "changelog": "Undetefffctable Mode toggel button   *Fixed* Aim no longer stutters at high GPU load (removed frame skipping)  Toggle lock works on first press  a"
+  "version": "2.5.1",
+  "download_url": "https://download.setaimbot.com/OverSet-2.5.1-update-test.zip",
+  "sha256": "f81e1223feeed7af159807b6e42023361b99f87e47e781f8f88888deb47ef220",
+  "size": 2244268047,
+  "package_format": "zip",
+  "changelog": "إصدار تجريبي للتحقق من التحديث التلقائي من 2.0.0 إلى 2.5.1.\nتنزيل حزمة موقّعة والتحقق منها وتثبيتها وإعادة تشغيل البرنامج تلقائيًا.\nعرض حالة التحديث في الجرس مع الحفاظ على الإعدادات والترخيص.\nهذه تجربة من الكود الجديد وليست النسخة القديمة 2.5.0.",
+  "signature": "CQxXZfixyfMs1wKG0/3Y0kD6X1vft1c4Goo7Hs1WGUQJXgh0LNIWwVnGP2FegbjTWA6CDniRWGZKDWnVIIuzCw=="
 }
