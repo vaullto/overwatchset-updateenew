@@ -1,9 +1,8 @@
 {
-  "version": "",
-  "download_url": "",
-  "sha256": "",
-  "size": ,
+  "version": "2.0.0",
+  "download_url": "https://pub-007d6ca135094f06be60338cfd2fd92d.r2.dev/DEMSET-2.0.0-20261013T002707Z-919f39c80939.zip",
+  "sha256": "c0c6ba9cbd94dc9dc19593374dc3b774aa7be465659fd578a1e459a8f39865ff",
+  "size": 2240136832,
   "package_format": "zip",
-  "changelog": "",
-  "signature": "CQxXZfixyfMs1wKG0/3Y0kD6X1vft1c4Goo7Hs1WGUQJXgh0LNIWwVnGP2FegbjTWA6CDniRWGZKDWnVIIuzCw=="
+  "changelog": "تحديث للتجربة"
 }
