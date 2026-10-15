@@ -1,6 +1,6 @@
 
 {
-  "version": "3.0.1",
+  "version": "3.0.5",
   "download_url": "https://download.setaimbot.com/DEMSET_Setup.exe",
   "changelog": "Undetectable Mode toggel button   *Fixed* Aim no longer stutters at high GPU load (removed frame skipping)  Toggle lock works on first press  a"
 }
