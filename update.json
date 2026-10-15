@@ -1,8 +1,8 @@
 {
-  "version": "3.0.1",
-  "download_url": "https://pub-007d6ca135094f06be60338cfd2fd92d.r2.dev/DEMSET-3.0.1-20261014T135102Z-4fa86a040ccb.zip",
-  "sha256": "c378d3b1e701231ed68cba1ca0e6d5038cd9f4f050ac27d0aa3db84f13aebf66",
-  "size": 2254053819,
+  "version": "3.0.5",
+  "download_url": "https://pub-007d6ca135094f06be60338cfd2fd92d.r2.dev/DEMSET-3.0.5-20261015T142311Z-88b404e56a49.zip",
+  "sha256": "a1b6e8eec2c25fdc18d702faff9e69bee334dceac73f5fd1b6e3a097e33c8132",
+  "size": 2257542062,
   "package_format": "zip",
-  "changelog": "FIX the model reject and missing profiles"
+  "changelog": "شغل البرنامج ك مسؤول علشان يحدث عندك"
 }
