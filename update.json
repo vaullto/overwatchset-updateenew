@@ -1,8 +1,9 @@
 {
-  "version": "3.0.5",
-  "download_url": "https://pub-007d6ca135094f06be60338cfd2fd92d.r2.dev/DEMSET-3.0.5-20261015T142311Z-88b404e56a49.zip",
-  "sha256": "a1b6e8eec2c25fdc18d702faff9e69bee334dceac73f5fd1b6e3a097e33c8132",
-  "size": 2257542062,
+  "version": "3.1.0",
+  "download_url": "https://pub-007d6ca135094f06be60338cfd2fd92d.r2.dev/DEMSET-3.1.0-20261022T181113Z-c709cdf9c188.zip",
+  "sha256": "fe6cfe5d0a5de7cb6b2619b23aa8691d1d18d0c2dbc117678afa972b83c58133",
+  "size": 2269143001,
   "package_format": "zip",
-  "changelog": "شغل البرنامج ك مسؤول علشان يحدث عندك"
+  "changelog": "عدلنا على زر hold-to-lock و سوينا اصلاحات اخرى",
+  "signature": "XADy7hLyx204sUh3a6P/msGfOlJnEAyh4gOJP7OZyP5rj5NfJEvzC6bGrsFIGc/XQYs/XuEYXV9eqOAIEAilDg=="
 }
