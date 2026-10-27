@@ -1,9 +1,9 @@
 {
-  "version": "3.1.0",
-  "download_url": "https://pub-007d6ca135094f06be60338cfd2fd92d.r2.dev/DEMSET-3.1.0-20261022T181113Z-c709cdf9c188.zip",
-  "sha256": "fe6cfe5d0a5de7cb6b2619b23aa8691d1d18d0c2dbc117678afa972b83c58133",
-  "size": 2269143001,
+  "version": "3.5.0",
+  "download_url": "https://pub-007d6ca135094f06be60338cfd2fd92d.r2.dev/DEMSET-3.5.0-20261027T231657Z-dd5b79cfa720.zip",
+  "sha256": "dd55083afb7a380362c97c58b1df356d395143df50a639159d79006c2d82d2ff",
+  "size": 2268977620,
   "package_format": "zip",
-  "changelog": " راح تحتاج تحمل برنامج الجديد شوف سيرفر الدسكورد",
-  "signature": "+O2TliVJhV5Xy0rfUhQdGNsanMxxYtyqiKPaWVv0rFvrGMpLVCD/ywZ/KUTJh4qFmMrd5cGfIU6rCiUY/vQuDA=="
+  "changelog": "اذا ماحدث البرنامج شغله بصلاحيات مسؤول",
+  "signature": "cuPfpqnbTPsX7Ndufk0QNOj8fgt9DNzyaWRKet+GoZpH4vPvFVHHCrTzdm1/qeVXclS1eWyaJITgE+1lEP+pDQ=="
 }
